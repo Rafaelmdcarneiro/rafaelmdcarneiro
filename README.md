@@ -14,7 +14,7 @@ fn main() {
 
 ```
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://www.erlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original-wordmark.svg" alt="erlang" "width="40" height="40"/></a>
 <a href="https://www.elixir-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" "width="40" height="40"/></a>
