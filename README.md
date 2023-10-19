@@ -62,4 +62,8 @@ fn main() {
 [linkedin]: https://www.linkedin.com/in/rafaelmdcarneiro/
 <br>
 
-#### Sociai Networks!
+#### Sociai Networks
+
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
