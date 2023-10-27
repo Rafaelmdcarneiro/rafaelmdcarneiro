@@ -1,16 +1,14 @@
 ## About me
 
-<img align="right" width="370" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="340" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
 fn main() {
-
     let name = 'Rafael Carneiro';
     let acknowledgements = 'Software Developer';
 
     let location = 'Fortaleza, Ceara, Brazil';
     let company = 'O2D - On Demand Development';
-
 }
 
 ```
