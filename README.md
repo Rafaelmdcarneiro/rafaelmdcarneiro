@@ -17,7 +17,7 @@ fn main() {
 <p align="left"> 
 <a href="https://www.erlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original-wordmark.svg" alt="erlang" "width="40" height="40"/></a>
 <a href="https://www.elixir-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" "width="40" height="40"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"width="40" height="40"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/rust.svg" alt="rust"width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
