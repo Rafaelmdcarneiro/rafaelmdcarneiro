@@ -56,7 +56,7 @@ fn main() {
 
 ![pv](https://pageview.vercel.app/?github_user=rafaelmdcarneiro)
 
-[website]: https://www.o2d.com.br/
+[website]: http://www.o2d.com.br/
 [instagram]: https://www.instagram.com/rafaelmdcarneiro/
 [linkedin]: https://www.linkedin.com/in/rafaelmdcarneiro/
 <br>
