@@ -5,7 +5,7 @@
 ```rust
 fn main() {
     let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Developer';
+    let acknowledgements = 'Software Engineer';
 
     let location = 'Fortaleza, Ceara, Brazil';
     let company = 'O2D - On Demand Development';
