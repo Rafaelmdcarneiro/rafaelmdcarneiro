@@ -4,11 +4,11 @@
 
 ```rust
 fn main() {
-    let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Engineer';
+    let _name = "Rafael Carneiro";
+    let _job = "Software Engineer";
 
-    let location = 'Fortaleza, Ceara, Brazil';
-    let company = 'O2D - On Demand Development';
+    let _location = "Fortaleza, Ceara, Brazil";
+    let _company = "O2D - On Demand Development";
 }
 
 ```
