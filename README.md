@@ -43,6 +43,11 @@ fn main() {
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> </a> </p>
 
+## 🛠 Professional Expertise
+
+- **Distributed Systems**: Designed and optimized systems handling over 1 million requests per second. Expertise in ensuring high-performance and secure operations with Rust and C++.
+- **Low-Level Programming**: Advanced skills in Rust, C++, C, and Python. Specialize in optimizing mission-critical systems for security and efficiency.
+- **Backend Development**: Expertise in Rust-based backend systems, including microservices architecture and legacy system migration.
 
 ## **GitHub Statistics**
 
