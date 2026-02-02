@@ -41,7 +41,12 @@ fn main() {
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> </a> </p>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://docs.ansible.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://developer.hashicorp.com/terraform/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
+<a href="https://grafana.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/> </a> </p>
 
 ## 💼 Professional Expertise
 
@@ -49,24 +54,11 @@ fn main() {
 - **Low-Level Programming**: Advanced skills in Rust, C++, C, and Python. Specialize in optimizing mission-critical systems for security and efficiency.
 - **Backend Development**: Expertise in Rust-based backend systems, including microservices architecture and legacy system migration.
 
-## **GitHub Statistics**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmdcarneiro&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmdcarneiro&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-![pv](https://pageview.vercel.app/?github_user=rafaelmdcarneiro)
-
 [website]: http://www.o2d.com.br/
 [instagram]: https://www.instagram.com/rafaelmdcarneiro/
 [linkedin]: https://www.linkedin.com/in/rafaelmdcarneiro/
 <br>
-
-#### Sociai Networks
+#### Social Networks
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
